@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/Chapter3 그리디/1이 될 때까지.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/Chapter3 그리디/숫자 카드 게임.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/Chapter3 그리디/큰 수의 법칙.py" afterDir="false" />
-    </list>
+    <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +55,7 @@
       <updated>1646918858388</updated>
       <workItem from="1646918860363" duration="5000" />
       <workItem from="1646921704133" duration="203000" />
+      <workItem from="1646922837451" duration="3000" />
     </task>
     <servers />
   </component>
@@ -80,6 +72,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="720" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1646921765392">
