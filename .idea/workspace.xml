@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이코테/Chapter3 그리디/숫자 카드 게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/Chapter3 그리디/숫자 카드 게임.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이코테/Chapter3 그리디/큰 수의 법칙.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/Chapter3 그리디/큰 수의 법칙.py" afterDir="false" />
-    </list>
+    <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +110,7 @@
       <workItem from="1646922837451" duration="3000" />
       <workItem from="1647001452978" duration="161000" />
       <workItem from="1647093887110" duration="1423000" />
+      <workItem from="1647095788414" duration="118000" />
     </task>
     <servers />
   </component>
@@ -137,28 +134,28 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="720" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1647094555137" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1647095320872">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1647095906881">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1647095320872" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1647095320871">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1647095906881" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1647095906880">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1647095320871" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1647095320871">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1647095906880" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1647095906880">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1647095320871" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1647095320871">
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1647095906880" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1647095906881">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1647095320871" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1647095906881" />
     <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1647094256393">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1647094256393" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithm$__.coverage" NAME="큰 수의 법칙 Coverage Results" MODIFIED="1647095281165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter3 그리디" />
+    <SUITE FILE_PATH="coverage/Algorithm$__.coverage" NAME="큰 수의 법칙 Coverage Results" MODIFIED="1647095888143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter3 그리디" />
   </component>
 </project>
