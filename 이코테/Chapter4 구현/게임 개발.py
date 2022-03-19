@@ -12,6 +12,7 @@ Map = []
 for n in range(N):
     Map.append(list(map(int, input().split())))
 
+count = 1
 c = 0   # 회전 수
 Map[x][y] = -1  # 시작 땅 -1로 변경
 while True:
@@ -26,6 +27,7 @@ while True:
         y = m_y
         Map[x][y] = -1
         c = 0
+        count += 1
 
     if c == 4:  # 네방향 모두 이미 가본 칸이거나 바다로 되어있는 칸인 경우 한칸 뒤로 이동
         x -= dir[(4 + (d + 1)) % 4][0]
@@ -35,10 +37,5 @@ while True:
         if Map[x][y] == 1:   # 뒤쪽 방향이 바다인 칸인 경우 움직임 멈춤
             break
 
-print(Map)
-
-count = 0
-for n in range(N):
-    count += Map[n].count(-1)   # 방문한 칸 수 세기
 
 print(count)    # 결과 출력

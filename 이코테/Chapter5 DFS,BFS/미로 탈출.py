@@ -6,5 +6,4 @@ maze = []
 for n in range(N):
     maze.append(list(map(int, input())))
 
-
-
+#
