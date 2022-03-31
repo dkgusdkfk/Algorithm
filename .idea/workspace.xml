@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이코테/Chapter8 다이나믹 프로그래밍/바닥공사.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/Chapter8 다이나믹 프로그래밍/바닥공사.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/이코테/Chapter8 다이나믹 프로그래밍/효율적인화폐구성.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/Chapter8 다이나믹 프로그래밍/효율적인화폐구성.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,28 +144,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="부품찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테/Chapter7 이진탐색" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테/Chapter7 이진탐색/부품찾기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="바닥공사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,13 +232,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.바닥공사" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.개미전사" />
         <item itemvalue="Python.1로만들기" />
         <item itemvalue="Python.1이 될 때까지" />
-        <item itemvalue="Python.부품찾기" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +302,7 @@
       <workItem from="1648007835431" duration="654000" />
       <workItem from="1648478085523" duration="21000" />
       <workItem from="1648564573043" duration="117000" />
-      <workItem from="1648711961947" duration="7906000" />
+      <workItem from="1648711961947" duration="8860000" />
     </task>
     <servers />
   </component>
@@ -325,22 +326,22 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="720" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1647094555137" />
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1648719627173">
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1648722596540">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1648719627173" />
-    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1648719627173">
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1648722596540" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1648722596540">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1648719627173" />
-    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1648719627172">
+    <state width="1877" height="275" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1648722596540" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1648722596539">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1648719627172" />
-    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1648719627173">
+    <state width="1877" height="275" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1648722596539" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1648722596540">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1648719627173" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1648722596540" />
     <state width="1877" height="343" key="GridCell.Tab.1.bottom" timestamp="1648008495874">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -367,7 +368,8 @@
     <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1647264671299" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithm$.coverage" NAME="바닥공사 Coverage Results" MODIFIED="1648719622909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter8 다이나믹 프로그래밍" />
+    <SUITE FILE_PATH="coverage/Algorithm$.coverage" NAME="바닥공사 Coverage Results" MODIFIED="1648722588677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter8 다이나믹 프로그래밍" />
+    <SUITE FILE_PATH="coverage/Algorithm$test.coverage" NAME="test Coverage Results" MODIFIED="1648722251224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테" />
     <SUITE FILE_PATH="coverage/Algorithm$__.coverage" NAME="음료수 얼려 먹기 Coverage Results" MODIFIED="1647344339061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter5 DFS,BFS" />
     <SUITE FILE_PATH="coverage/Algorithm$1__.coverage" NAME="1이 될 때까지 Coverage Results" MODIFIED="1648713410832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter3 그리디" />
     <SUITE FILE_PATH="coverage/Algorithm$1.coverage" NAME="1로만들기 Coverage Results" MODIFIED="1648715437430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter8 다이나믹 프로그래밍" />
