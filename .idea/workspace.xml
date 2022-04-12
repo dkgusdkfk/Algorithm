@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이코테/Chapter9 최단경로/전보.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/Chapter9 최단경로/전보.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이코테/Chapter9 최단경로/미래도시.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/Chapter9 최단경로/미래도시.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Python.미래도시">
+  <component name="RunManager" selected="Python.1로만들기">
     <configuration name="미래도시" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,6 +91,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테/Chapter8 다이나믹 프로그래밍/1로만들기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="전보" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테/Chapter9 최단경로" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테/Chapter9 최단경로/전보.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,7 +345,9 @@
       <workItem from="1648564573043" duration="117000" />
       <workItem from="1648711961947" duration="10613000" />
       <workItem from="1648737117738" duration="4488000" />
-      <workItem from="1648748163308" duration="345000" />
+      <workItem from="1648748163308" duration="2110000" />
+      <workItem from="1648817497948" duration="3959000" />
+      <workItem from="1649430426505" duration="22000" />
     </task>
     <servers />
   </component>
@@ -347,22 +371,22 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="720" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1647094555137" />
-    <state width="1877" height="343" key="GridCell.Tab.0.bottom" timestamp="1648748083210">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1648750731570">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1648748083210" />
-    <state width="1877" height="343" key="GridCell.Tab.0.center" timestamp="1648748083209">
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1648750731570" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1648750731570">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1648748083209" />
-    <state width="1877" height="343" key="GridCell.Tab.0.left" timestamp="1648748083209">
+    <state width="1877" height="277" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1648750731570" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1648750731569">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1648748083209" />
-    <state width="1877" height="343" key="GridCell.Tab.0.right" timestamp="1648748083210">
+    <state width="1877" height="277" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1648750731569" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1648750731570">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1648748083210" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1648750731570" />
     <state width="1877" height="343" key="GridCell.Tab.1.bottom" timestamp="1648748083210">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -389,7 +413,7 @@
     <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1647264671299" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Algorithm$.coverage" NAME="미래도시 Coverage Results" MODIFIED="1648747905447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter9 최단경로" />
+    <SUITE FILE_PATH="coverage/Algorithm$.coverage" NAME="전보 Coverage Results" MODIFIED="1648749611470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter9 최단경로" />
     <SUITE FILE_PATH="coverage/Algorithm$test.coverage" NAME="test Coverage Results" MODIFIED="1648722251224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테" />
     <SUITE FILE_PATH="coverage/Algorithm$__.coverage" NAME="음료수 얼려 먹기 Coverage Results" MODIFIED="1647344339061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter5 DFS,BFS" />
     <SUITE FILE_PATH="coverage/Algorithm$1__.coverage" NAME="1이 될 때까지 Coverage Results" MODIFIED="1648713410832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter3 그리디" />

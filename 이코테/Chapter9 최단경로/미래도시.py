@@ -21,7 +21,7 @@ for i in range(1, N+1):
             graph[j][k] = min(graph[j][k], graph[j][i] + graph[i][k])
 
 result = graph[1][K] + graph[K][X]
-if result > INF:
+if result >= INF:
     print(-1)
 else:
     print(result)
