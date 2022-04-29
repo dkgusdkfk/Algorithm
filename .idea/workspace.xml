@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/백준/Q20055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/Q21608.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
       <recent name="C:\Users\ADMiN\Desktop\아현\알고리즘\Algorithm\sw" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Q20055">
+  <component name="RunManager" selected="Python.Q21608">
     <configuration name="2115.벌꿀채취" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,28 +74,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/2115.벌꿀채취.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Q1260" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/Q1260.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,6 +118,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/Q20055.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q21608" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/Q21608.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -304,11 +304,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Q21608" />
         <item itemvalue="Python.Q20055" />
         <item itemvalue="Python.Q14891" />
         <item itemvalue="Python.2115.벌꿀채취" />
         <item itemvalue="Python.Q2178" />
-        <item itemvalue="Python.Q1260" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +362,7 @@
       <workItem from="1650816579766" duration="8513000" />
       <workItem from="1651070571981" duration="4698000" />
       <workItem from="1651157382920" duration="11792000" />
-      <workItem from="1651238926039" duration="6525000" />
+      <workItem from="1651238926039" duration="13071000" />
     </task>
     <servers />
   </component>
@@ -386,38 +386,38 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="720" y="316" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1649812180021" />
-    <state width="914" height="275" key="GridCell.Tab.0.bottom" timestamp="1651245489804">
+    <state width="914" height="275" key="GridCell.Tab.0.bottom" timestamp="1651251977112">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1651245489804" />
-    <state width="914" height="275" key="GridCell.Tab.0.center" timestamp="1651245489804">
+    <state width="914" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1651251977112" />
+    <state width="914" height="275" key="GridCell.Tab.0.center" timestamp="1651251977112">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="275" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1651245489804" />
-    <state width="914" height="275" key="GridCell.Tab.0.left" timestamp="1651245489804">
+    <state width="914" height="275" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1651251977112" />
+    <state width="914" height="275" key="GridCell.Tab.0.left" timestamp="1651251977112">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="275" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1651245489804" />
-    <state width="914" height="275" key="GridCell.Tab.0.right" timestamp="1651245489804">
+    <state width="914" height="275" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1651251977112" />
+    <state width="914" height="275" key="GridCell.Tab.0.right" timestamp="1651251977112">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="275" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1651245489804" />
-    <state width="914" height="342" key="GridCell.Tab.1.bottom" timestamp="1651241638424">
+    <state width="914" height="275" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1651251977112" />
+    <state width="914" height="342" key="GridCell.Tab.1.bottom" timestamp="1651249448532">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1651241638424" />
-    <state width="914" height="342" key="GridCell.Tab.1.center" timestamp="1651241638424">
+    <state width="914" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1651249448532" />
+    <state width="914" height="342" key="GridCell.Tab.1.center" timestamp="1651249448532">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="342" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1651241638424" />
-    <state width="914" height="342" key="GridCell.Tab.1.left" timestamp="1651241638424">
+    <state width="914" height="342" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1651249448532" />
+    <state width="914" height="342" key="GridCell.Tab.1.left" timestamp="1651249448532">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="342" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1651241638424" />
-    <state width="914" height="342" key="GridCell.Tab.1.right" timestamp="1651241638424">
+    <state width="914" height="342" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1651249448532" />
+    <state width="914" height="342" key="GridCell.Tab.1.right" timestamp="1651249448532">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="914" height="342" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1651241638424" />
+    <state width="914" height="342" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1651249448532" />
     <state x="510" y="244" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1647973243250">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -443,7 +443,8 @@
     <SUITE FILE_PATH="coverage/Algorithm$.coverage" NAME="커리큘럼 Coverage Results" MODIFIED="1649812089025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter10 그래프 이론" />
     <SUITE FILE_PATH="coverage/Algorithm$Q1.coverage" NAME="Q1모험가길드 Coverage Results" MODIFIED="1649812611198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter11 그리디문제" />
     <SUITE FILE_PATH="coverage/Algorithm$Q14500.coverage" NAME="Q14500 Coverage Results" MODIFIED="1650565552983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
-    <SUITE FILE_PATH="coverage/Algorithm$Q20055.coverage" NAME="Q20055 Coverage Results" MODIFIED="1651245489788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
+    <SUITE FILE_PATH="coverage/Algorithm$Q20055.coverage" NAME="Q20055 Coverage Results" MODIFIED="1651247008574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
+    <SUITE FILE_PATH="coverage/Algorithm$Q21608.coverage" NAME="Q21608 Coverage Results" MODIFIED="1651251977101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/Algorithm$Q1260.coverage" NAME="Q1260 Coverage Results" MODIFIED="1651078857576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/Algorithm$Q8.coverage" NAME="Q8문자열재정렬 Coverage Results" MODIFIED="1651071542195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter12 구현문제" />
     <SUITE FILE_PATH="coverage/Algorithm$2115_.coverage" NAME="2115.벌꿀채취 Coverage Results" MODIFIED="1651167587973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sw" />
