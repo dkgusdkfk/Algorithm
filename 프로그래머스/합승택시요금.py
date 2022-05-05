@@ -11,12 +11,12 @@ def solution(n, s, a, b, fares):
     for f in fares:
         f1, f2, f3 = f
         graph[f1][f2] = f3
+        graph[f2][f1] = f3
 
     for k in range(1, n+1):
         for i in range(1, n+1):
             for j in range(1, n+1):
                 graph[i][j] = min(graph[i][j], graph[i][k] + graph[k][j])
-                graph[j][i] = min(graph[i][j], graph[j][i])
 
     answer_min = int(1e9)
     for i in range(1, n+1):
