@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/이코테/Chapter12 구현문제/Q12기둥과보설치.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이코테/Chapter13 DFS,BFS문제/Q16연구소.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이코테/Chapter12 구현문제/Q10자물쇠와열쇠.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/Chapter12 구현문제/Q10자물쇠와열쇠.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이코테/Chapter12 구현문제/Q11뱀.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/Chapter12 구현문제/Q11뱀.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이코테/Chapter12 구현문제/Q9문자열압축.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/Chapter12 구현문제/Q9문자열압축.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,29 +59,7 @@
       <recent name="C:\Users\ADMiN\Desktop\아현\알고리즘\Algorithm\sw" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Q12기둥과보설치">
-    <configuration name="신규아이디추천" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/프로그래머스" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/프로그래머스/신규아이디추천.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Q16연구소">
     <configuration name="Q10자물쇠와열쇠" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,28 +82,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q11뱀" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테/Chapter12 구현문제" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테/Chapter12 구현문제/Q11뱀.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Q12기둥과보설치" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,6 +96,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테/Chapter12 구현문제/Q12기둥과보설치.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q15특정거리의도시찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테/Chapter13 DFS,BFS문제" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테/Chapter13 DFS,BFS문제/Q15특정거리의도시찾기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q16연구소" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테/Chapter13 DFS,BFS문제" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테/Chapter13 DFS,BFS문제/Q16연구소.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -439,11 +436,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Q16연구소" />
+        <item itemvalue="Python.Q15특정거리의도시찾기" />
         <item itemvalue="Python.Q12기둥과보설치" />
         <item itemvalue="Python.Q9문자열압축" />
         <item itemvalue="Python.Q10자물쇠와열쇠" />
-        <item itemvalue="Python.Q11뱀" />
-        <item itemvalue="Python.신규아이디추천" />
       </list>
     </recent_temporary>
   </component>
@@ -509,6 +506,7 @@
       <workItem from="1653548162289" duration="2229000" />
       <workItem from="1653559178063" duration="1935000" />
       <workItem from="1653574884466" duration="2244000" />
+      <workItem from="1654004611616" duration="5142000" />
     </task>
     <servers />
   </component>
@@ -528,6 +526,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1175" y="342" key="#Notifications" timestamp="1654007719798">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1175" y="342" key="#Notifications/0.0.1920.1032@0.0.1920.1032" timestamp="1654007719798" />
     <state x="720" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1649812180021">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -536,22 +538,22 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="869" y="329" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1651898789291" />
-    <state width="1064" height="340" key="GridCell.Tab.0.bottom" timestamp="1653550433117">
+    <state width="914" height="278" key="GridCell.Tab.0.bottom" timestamp="1654009926321">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1064" height="340" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1653550433117" />
-    <state width="1064" height="340" key="GridCell.Tab.0.center" timestamp="1653550433117">
+    <state width="914" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1654009926321" />
+    <state width="914" height="278" key="GridCell.Tab.0.center" timestamp="1654009926320">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1064" height="340" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1653550433117" />
-    <state width="1064" height="340" key="GridCell.Tab.0.left" timestamp="1653550433117">
+    <state width="914" height="278" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1654009926320" />
+    <state width="914" height="278" key="GridCell.Tab.0.left" timestamp="1654009926320">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1064" height="340" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1653550433117" />
-    <state width="1064" height="340" key="GridCell.Tab.0.right" timestamp="1653550433117">
+    <state width="914" height="278" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1654009926320" />
+    <state width="914" height="278" key="GridCell.Tab.0.right" timestamp="1654009926321">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1064" height="340" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1653550433117" />
+    <state width="914" height="278" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1654009926321" />
     <state width="1064" height="340" key="GridCell.Tab.1.bottom" timestamp="1653550433117">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -606,11 +608,13 @@
     <SUITE FILE_PATH="coverage/Algorithm$Q20055.coverage" NAME="Q20055 Coverage Results" MODIFIED="1651247008574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/Algorithm$Q21608.coverage" NAME="Q21608 Coverage Results" MODIFIED="1651251977101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/Algorithm$Q1260.coverage" NAME="Q1260 Coverage Results" MODIFIED="1651078857576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
+    <SUITE FILE_PATH="coverage/Algorithm$Q16.coverage" NAME="Q16연구소 Coverage Results" MODIFIED="1654009926303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter13 DFS,BFS문제" />
     <SUITE FILE_PATH="coverage/Algorithm$Q8.coverage" NAME="Q8문자열재정렬 Coverage Results" MODIFIED="1651071542195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter12 구현문제" />
     <SUITE FILE_PATH="coverage/Algorithm$2115_.coverage" NAME="2115.벌꿀채취 Coverage Results" MODIFIED="1651167587973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sw" />
     <SUITE FILE_PATH="coverage/Algorithm$Q12.coverage" NAME="Q12기둥과보설치 Coverage Results" MODIFIED="1653549971259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter12 구현문제" />
     <SUITE FILE_PATH="coverage/Algorithm$Q2178.coverage" NAME="Q2178 Coverage Results" MODIFIED="1651157531919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/Algorithm$Q5.coverage" NAME="Q5볼링공고르기 Coverage Results" MODIFIED="1649815253022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter11 그리디문제" />
+    <SUITE FILE_PATH="coverage/Algorithm$Q15.coverage" NAME="Q15특정거리의도시찾기 Coverage Results" MODIFIED="1654006780896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter13 DFS,BFS문제" />
     <SUITE FILE_PATH="coverage/Algorithm$Q14891.coverage" NAME="Q14891 Coverage Results" MODIFIED="1651243178077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/Algorithm$Q2.coverage" NAME="Q2곱하기혹은더하기 Coverage Results" MODIFIED="1649813641497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter11 그리디문제" />
     <SUITE FILE_PATH="coverage/Algorithm$Q10.coverage" NAME="Q10자물쇠와열쇠 Coverage Results" MODIFIED="1653501023456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter12 구현문제" />
