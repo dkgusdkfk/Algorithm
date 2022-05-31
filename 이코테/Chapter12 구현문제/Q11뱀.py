@@ -14,13 +14,14 @@ for _ in range(l):
     info.append(list(input().split()))
 
 dir = {0:[0,1], 1:[1,0], 2:[0,-1], 3:[-1,0]}  #동,남,서,북 순서
+# dx,dy랑 메모리 비교
 snake = [[1,1]]
 head = [1,1]
 d = 0
 time = 0
 
-while(True):
-    time += 1
+for time in range(10101):   # while(True) 대신 가능
+    #time += 1
 
     head[0] += dir[d][0]
     head[1] += dir[d][1]
@@ -31,7 +32,7 @@ while(True):
     if head in apple:
         apple.remove(head)
     else:
-        del snake[0]
+        del snake[0]    # pop으로 변경
 
     if info != []:
         if time == int(info[0][0]):
