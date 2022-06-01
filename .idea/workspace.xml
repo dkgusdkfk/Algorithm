@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/이코테/Chapter13 DFS,BFS문제/Q21인구이동.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이코테/Chapter13 DFS,BFS문제/Q22블록이동하기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
       <recent name="C:\Users\ADMiN\Desktop\아현\알고리즘\Algorithm\sw" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Q21인구이동">
+  <component name="RunManager" selected="Python.Q22블록이동하기">
     <configuration name="Q12기둥과보설치" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q9문자열압축" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Q22블록이동하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,12 +156,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테/Chapter12 구현문제" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이코테/Chapter13 DFS,BFS문제" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테/Chapter12 구현문제/Q9문자열압축.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이코테/Chapter13 DFS,BFS문제/Q22블록이동하기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -436,11 +436,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Q22블록이동하기" />
         <item itemvalue="Python.Q21인구이동" />
         <item itemvalue="Python.Q16연구소" />
         <item itemvalue="Python.Q15특정거리의도시찾기" />
         <item itemvalue="Python.Q12기둥과보설치" />
-        <item itemvalue="Python.Q9문자열압축" />
       </list>
     </recent_temporary>
   </component>
@@ -506,7 +506,7 @@
       <workItem from="1653548162289" duration="2229000" />
       <workItem from="1653559178063" duration="1935000" />
       <workItem from="1653574884466" duration="2244000" />
-      <workItem from="1654004611616" duration="9514000" />
+      <workItem from="1654004611616" duration="12253000" />
     </task>
     <servers />
   </component>
@@ -538,38 +538,38 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="869" y="329" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1651898789291" />
-    <state width="1877" height="340" key="GridCell.Tab.0.bottom" timestamp="1654013502903">
+    <state width="1877" height="340" key="GridCell.Tab.0.bottom" timestamp="1654018391908">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="340" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1654013502903" />
-    <state width="1877" height="340" key="GridCell.Tab.0.center" timestamp="1654013502902">
+    <state width="1877" height="340" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1654018391908" />
+    <state width="1877" height="340" key="GridCell.Tab.0.center" timestamp="1654018391908">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="340" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1654013502902" />
-    <state width="1877" height="340" key="GridCell.Tab.0.left" timestamp="1654013502902">
+    <state width="1877" height="340" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1654018391908" />
+    <state width="1877" height="340" key="GridCell.Tab.0.left" timestamp="1654018391908">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="340" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1654013502902" />
-    <state width="1877" height="340" key="GridCell.Tab.0.right" timestamp="1654013502903">
+    <state width="1877" height="340" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1654018391908" />
+    <state width="1877" height="340" key="GridCell.Tab.0.right" timestamp="1654018391908">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="340" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1654013502903" />
-    <state width="1877" height="340" key="GridCell.Tab.1.bottom" timestamp="1654013507093">
+    <state width="1877" height="340" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1654018391908" />
+    <state width="1877" height="340" key="GridCell.Tab.1.bottom" timestamp="1654018391908">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1654013507093" />
-    <state width="1877" height="340" key="GridCell.Tab.1.center" timestamp="1654013507093">
+    <state width="1877" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1654018391908" />
+    <state width="1877" height="340" key="GridCell.Tab.1.center" timestamp="1654018391908">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="340" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1654013507093" />
-    <state width="1877" height="340" key="GridCell.Tab.1.left" timestamp="1654013507093">
+    <state width="1877" height="340" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1654018391908" />
+    <state width="1877" height="340" key="GridCell.Tab.1.left" timestamp="1654018391908">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="340" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1654013507093" />
-    <state width="1877" height="340" key="GridCell.Tab.1.right" timestamp="1654013507093">
+    <state width="1877" height="340" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1654018391908" />
+    <state width="1877" height="340" key="GridCell.Tab.1.right" timestamp="1654018391908">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="340" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1654013507093" />
+    <state width="1877" height="340" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1654018391908" />
     <state x="510" y="244" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1647973243250">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -591,6 +591,11 @@
           <url>file://$PROJECT_DIR$/이코테/Chapter13 DFS,BFS문제/Q21인구이동.py</url>
           <line>12</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/이코테/Chapter13 DFS,BFS문제/Q22블록이동하기.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -621,6 +626,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$Q2178.coverage" NAME="Q2178 Coverage Results" MODIFIED="1651157531919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/Algorithm$Q5.coverage" NAME="Q5볼링공고르기 Coverage Results" MODIFIED="1649815253022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter11 그리디문제" />
     <SUITE FILE_PATH="coverage/Algorithm$Q15.coverage" NAME="Q15특정거리의도시찾기 Coverage Results" MODIFIED="1654006780896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter13 DFS,BFS문제" />
+    <SUITE FILE_PATH="coverage/Algorithm$Q22.coverage" NAME="Q22블록이동하기 Coverage Results" MODIFIED="1654018329094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter13 DFS,BFS문제" />
     <SUITE FILE_PATH="coverage/Algorithm$Q14891.coverage" NAME="Q14891 Coverage Results" MODIFIED="1651243178077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/Algorithm$Q2.coverage" NAME="Q2곱하기혹은더하기 Coverage Results" MODIFIED="1649813641497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter11 그리디문제" />
     <SUITE FILE_PATH="coverage/Algorithm$Q10.coverage" NAME="Q10자물쇠와열쇠 Coverage Results" MODIFIED="1653501023456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter12 구현문제" />
