@@ -1,25 +1,29 @@
+def possible(answer):
+    for x, y, a in answer:
+        if a == 0:  # 기둥
+            if y==0 or [x-1,y,1] in answer or [x,y,1] in answer or [x,y-1,0] in answer: # 바닥 위 or 보의 한쪽 끝부분 위 or 다른 기둥 위
+                continue
+            return False
+        elif a == 1:    # 보
+            if [x,y-1,0] in answer or [x+1,y-1,0] in answer or ([x-1,y,1] in answer and [x+1,y,1] in answer):   # 한쪽 끝부분이 기둥 위 or 양쪽 끝부분이 다른 보와 동시 연결
+                continue
+            return False
+    return True
+
 def solution(n, build_frame):
-    answer = [[]]
+    answer = []
 
-    array = [[0]*n]*n   # 0:빈칸, 1:기둥, 2:보, 3:기둥+보, 5:기둥+보*2
+    for x, y, a, b in build_frame:
+        if b == 0:
+            answer.remove([x,y,a])
+            if not possible(answer):
+                answer.append([x,y,a])
+        if b == 1:
+            answer.append([x,y,a])
+            if not possible(answer):
+                answer.remove([x,y,a])
 
-    for b in build_frame:
-        x, y = b[0], b[1]
-        if b[3] == 1:   # 추가
-            if b[2] == 0:   # 기둥
-                if x+1 <= n:
-                    if array[x][y] < 3:
-                        array[x][y] = 1
-                        array[x+1][y] = 1
-            elif b[2] == 1: # 보
-                if y+1 <= n:
-                    if array[x][y] == 1:
-                        array[x][y]
-
-
-
-
-    return answer
+    return sorted(answer)
 
 n = 5
 build_frame = [[1,0,0,1],[1,1,1,1],[2,1,0,1],[2,2,1,1],[5,0,0,1],[5,1,0,1],[4,2,1,1],[3,2,1,1]]
