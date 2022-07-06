@@ -20,17 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/이코테/Chapter13 DFS,BFS문제/Q20감시피하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/Chapter14 정렬문제/Q23국영수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/Chapter14 정렬문제/Q24안테나.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/Chapter14 정렬문제/Q25실패율.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/Chapter14 정렬문제/Q26카드정렬하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이코테/Chapter15 이진탐색문제/Q27정렬된배열특정수개수.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이코테/Chapter12 구현문제/Q10자물쇠와열쇠.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/Chapter12 구현문제/Q10자물쇠와열쇠.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이코테/Chapter12 구현문제/Q11뱀.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/Chapter12 구현문제/Q11뱀.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이코테/Chapter12 구현문제/Q12기둥과보설치.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/Chapter12 구현문제/Q12기둥과보설치.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이코테/Chapter12 구현문제/Q7럭키스트레이트.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/Chapter12 구현문제/Q7럭키스트레이트.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이코테/Chapter13 DFS,BFS문제/Q21인구이동.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/Chapter13 DFS,BFS문제/Q21인구이동.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -435,6 +426,8 @@
       <workItem from="1655809518923" duration="1001000" />
       <workItem from="1655817427139" duration="1295000" />
       <workItem from="1655818755591" duration="1460000" />
+      <workItem from="1657031536478" duration="1076000" />
+      <workItem from="1657116388568" duration="397000" />
     </task>
     <servers />
   </component>
