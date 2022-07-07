@@ -1,8 +1,10 @@
-n, c = map(int, input().split())
+import sys
+
+n, c = map(int, sys.stdin.readline().split())
 
 a = []
 for _ in range(n):
-    a.append(int(input()))
+    a.append(int(sys.stdin.readline()))
 
 a.sort()
 
