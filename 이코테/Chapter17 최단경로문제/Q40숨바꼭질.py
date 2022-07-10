@@ -12,6 +12,7 @@ distance = [INF] * (n+1)
 for _ in range(m):
     a, b = map(int, sys.stdin.readline().split())
     graph[a].append((b,1))
+    graph[b].append((a,1))
 
 q = []
 heapq.heappush(q, (0, 1))
@@ -26,11 +27,10 @@ while q:
             distance[i[0]] = cost
             heapq.heappush(q, (cost, i[0]))
 
-d = INF
+d = 0
 array = []
 for i in range(2, n+1):
-    print(i, distance[i])
-    if distance[i] < d:
+    if distance[i] > d:
         array = [i]
         d = distance[i]
     elif distance[i] == d:
