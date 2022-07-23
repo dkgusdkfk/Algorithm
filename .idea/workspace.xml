@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/이코테/Chapter18 그래프이론문제/Q44행성터널.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이코테/Chapter18 그래프이론문제/Q45최종순위.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -308,7 +307,7 @@
       <workItem from="1658068995660" duration="505000" />
       <workItem from="1658154580940" duration="40000" />
       <workItem from="1658241273705" duration="4893000" />
-      <workItem from="1658402059783" duration="1576000" />
+      <workItem from="1658402059783" duration="2009000" />
     </task>
     <servers />
   </component>
@@ -340,38 +339,38 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="869" y="329" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1651898789291" />
-    <state width="1877" height="308" key="GridCell.Tab.0.bottom" timestamp="1658403648441">
+    <state width="1877" height="308" key="GridCell.Tab.0.bottom" timestamp="1658404086543">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="308" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1658403648441" />
-    <state width="1877" height="308" key="GridCell.Tab.0.center" timestamp="1658403648441">
+    <state width="1877" height="308" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1658404086543" />
+    <state width="1877" height="308" key="GridCell.Tab.0.center" timestamp="1658404086542">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="308" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1658403648441" />
-    <state width="1877" height="308" key="GridCell.Tab.0.left" timestamp="1658403648441">
+    <state width="1877" height="308" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1658404086542" />
+    <state width="1877" height="308" key="GridCell.Tab.0.left" timestamp="1658404086542">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="308" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1658403648441" />
-    <state width="1877" height="308" key="GridCell.Tab.0.right" timestamp="1658403648441">
+    <state width="1877" height="308" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1658404086542" />
+    <state width="1877" height="308" key="GridCell.Tab.0.right" timestamp="1658404086543">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="308" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1658403648441" />
-    <state width="1877" height="340" key="GridCell.Tab.1.bottom" timestamp="1657213025577">
+    <state width="1877" height="308" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1658404086543" />
+    <state width="1877" height="340" key="GridCell.Tab.1.bottom" timestamp="1658404086540">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1657213025577" />
-    <state width="1877" height="340" key="GridCell.Tab.1.center" timestamp="1657213025577">
+    <state width="1877" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1658404086540" />
+    <state width="1877" height="340" key="GridCell.Tab.1.center" timestamp="1658404086540">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="340" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1657213025577" />
-    <state width="1877" height="340" key="GridCell.Tab.1.left" timestamp="1657213025577">
+    <state width="1877" height="340" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1658404086540" />
+    <state width="1877" height="340" key="GridCell.Tab.1.left" timestamp="1658404086540">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="340" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1657213025577" />
-    <state width="1877" height="340" key="GridCell.Tab.1.right" timestamp="1657213025577">
+    <state width="1877" height="340" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1658404086540" />
+    <state width="1877" height="340" key="GridCell.Tab.1.right" timestamp="1658404086540">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1877" height="340" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1657213025577" />
+    <state width="1877" height="340" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1658404086540" />
     <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1657895405664">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -402,6 +401,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$Q38.coverage" NAME="Q38정확한순위 Coverage Results" MODIFIED="1657367932857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter17 최단경로문제" />
     <SUITE FILE_PATH="coverage/Algorithm$Q29.coverage" NAME="Q29공유기설치 Coverage Results" MODIFIED="1657207671450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter15 이진탐색문제" />
     <SUITE FILE_PATH="coverage/Algorithm$Q41.coverage" NAME="Q41여행계획 Coverage Results" MODIFIED="1658244728018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter18 그래프이론문제" />
+    <SUITE FILE_PATH="coverage/Algorithm$Q44.coverage" NAME="Q44행성터널 Coverage Results" MODIFIED="1658403714273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter18 그래프이론문제" />
     <SUITE FILE_PATH="coverage/Algorithm$Q35.coverage" NAME="Q35못생긴수 Coverage Results" MODIFIED="1657292974885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter16 다이나믹 프로그래밍 문제" />
     <SUITE FILE_PATH="coverage/Algorithm$__.coverage" NAME="음료수 얼려 먹기 Coverage Results" MODIFIED="1647344339061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter5 DFS,BFS" />
     <SUITE FILE_PATH="coverage/Algorithm$1.coverage" NAME="1로만들기 Coverage Results" MODIFIED="1649811526328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter8 다이나믹 프로그래밍" />
