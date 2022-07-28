@@ -10,7 +10,7 @@ for a in range(1, n+1):
     for b in range(1, n+1):
         if a==b:
             graph[a][b] = 0
-"""아래랑 다른점?
+"""아래랑 다른점? --> 가능
 for a in range(1, n+1):
     graph[a][a] = 0
 """
