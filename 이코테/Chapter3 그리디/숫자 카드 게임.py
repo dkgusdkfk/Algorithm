@@ -8,3 +8,15 @@ for i in range(N):
 result = max(min_list) # 각 행에서 가장 작은 수 중 가장 큰 수 선택
 
 print(result) # 결과 값 출력
+
+"""
+n, m = map(int, input().split())
+
+result = 0
+for i in range(n):
+    data = list(map(int, input().split()))
+    min_value = min(data)
+    result = max(result, min_value)
+
+print(result)
+"""
