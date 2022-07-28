@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/이코테/Chapter19 2020년 상반기 삼성전자 기출문제/Q46아기상어.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/이코테/Chapter19 2020년 상반기 삼성전자 기출문제/Q47청소년상어.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이코테/Chapter17 최단경로문제/Q37플로이드.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/Chapter17 최단경로문제/Q37플로이드.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/이코테/Chapter3 그리디/큰 수의 법칙.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/Chapter3 그리디/큰 수의 법칙.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이코테/Chapter3 그리디/1이 될 때까지.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/Chapter3 그리디/1이 될 때까지.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -283,7 +280,7 @@
       <workItem from="1658538549445" duration="2180000" />
       <workItem from="1658572306364" duration="5624000" />
       <workItem from="1658931291677" duration="1675000" />
-      <workItem from="1659018486958" duration="906000" />
+      <workItem from="1659018486958" duration="1736000" />
     </task>
     <servers />
   </component>
