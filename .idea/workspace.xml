@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/이코테/Chapter4 구현/게임 개발.py" beforeDir="false" afterPath="$PROJECT_DIR$/이코테/Chapter4 구현/게임 개발.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,7 +281,7 @@
       <workItem from="1658931291677" duration="1675000" />
       <workItem from="1659018486958" duration="1736000" />
       <workItem from="1663858872708" duration="4000" />
-      <workItem from="1663858889530" duration="22000" />
+      <workItem from="1663858889530" duration="365000" />
     </task>
     <servers />
   </component>
