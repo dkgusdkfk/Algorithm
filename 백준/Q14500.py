@@ -1,45 +1,44 @@
-n, m = map(int, input().split());
+n, m = map(int, input().split())
 
 paper = []
 for i in range(n):
     paper.append(list(map(int, input().split())))
 
-array = []
-for a in range(n):
-    arr = []
-    for b in range(m):
-        arr.append(0)
-    array.append(arr)
+visited = [[0 for _ in range(m)] for _ in range(n)]
 
-A = array
+dx = [-1, 1, 0, 0]
+dy = [0, 0, -1, 1]
 
-max = 0
-def solution(x, y, total, count, array):
-    global max
-    total += paper[x][y]
-    array[x][y] = 1
-    count += 1
+maxTotal = 0
+
+
+def dfs(x, y, total, count):
+    global maxTotal
     if count == 4:
-        if max < total:
-            max = total
+        maxTotal = max(maxTotal, total)
         return
-    if (x + 1) < n:
-        if array[x + 1][y] == 0:
-            solution(x + 1, y, total, count, array)
-    if (x - 1) >= 0:
-        if array[x - 1][y] == 0:
-            solution(x - 1, y, total, count, array)
-    if (y + 1) < m:
-        if array[x][y + 1] == 0:
-            solution(x, y + 1, total, count, array)
-    if (y - 1) >= 0:
-        if array[x][y - 1] == 0:
-            solution(x, y - 1, total, count, array)
+
+    if (0 <= x < n) and (0 <= y < m):
+        if visited[x][y] == 0:
+            for k in range(4):
+                visited[x][y] = 1
+                dfs(x + dx[k], y + dy[k], total + paper[x][y], count + 1)
+                visited[x][y] = 0
+
+
+def plus(x, y, total):
+    global maxTotal
+    for i in range(4):
+        total = paper[x][y]
+        for j in range(3):
+            if 0 <= x + dx[(i + j) % 4] < n and 0 <= y + dy[(i + j) % 4] < m:
+                total += paper[x + dx[(i + j) % 4]][y + dy[(i + j) % 4]]
+        maxTotal = max(maxTotal, total)
 
 
 for i in range(n):
-    array = A
     for j in range(m):
-        solution(i, j, 0, 0, array)
+        dfs(i, j, 0, 0)
+        plus(i, j, 0)
 
-print(max)
+print(maxTotal)
