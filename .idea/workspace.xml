@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sw/1926.간단한369게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sw/1928.Base64Decoder.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sw/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sw/input.txt" afterDir="false" />
     </list>
@@ -71,29 +71,7 @@
       <recent name="C:\Users\ADMiN\Desktop\아현\알고리즘\Algorithm\sw" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1926.간단한369게임">
-    <configuration name="1204.최빈수구하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/1204.최빈수구하기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1928.Base64Decoder">
     <configuration name="1208.Flatten" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,6 +138,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1928.Base64Decoder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/1928.Base64Decoder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1954.달팽이숫자" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1928.Base64Decoder" />
         <item itemvalue="Python.1926.간단한369게임" />
         <item itemvalue="Python.1208.Flatten" />
         <item itemvalue="Python.1244.최대상금" />
         <item itemvalue="Python.1954.달팽이숫자" />
-        <item itemvalue="Python.1204.최빈수구하기" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +312,7 @@
       <workItem from="1665239001771" duration="8602000" />
       <workItem from="1665417128808" duration="2617000" />
       <workItem from="1665420346337" duration="2343000" />
-      <workItem from="1665587734279" duration="1098000" />
+      <workItem from="1665587734279" duration="2411000" />
     </task>
     <servers />
   </component>
