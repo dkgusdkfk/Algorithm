@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sw/2001.파리퇴치.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sw/15230.알파벳공부.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sw/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sw/input.txt" afterDir="false" />
     </list>
@@ -71,8 +71,8 @@
       <recent name="C:\Users\ADMiN\Desktop\아현\알고리즘\Algorithm\sw" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2001.파리퇴치">
-    <configuration name="1208.Flatten" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.15230.알파벳공부">
+    <configuration name="15230.알파벳공부" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +85,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/1208.Flatten.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/15230.알파벳공부.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.15230.알파벳공부" />
         <item itemvalue="Python.2001.파리퇴치" />
         <item itemvalue="Python.2806.N-Queen" />
         <item itemvalue="Python.1928.Base64Decoder" />
         <item itemvalue="Python.1926.간단한369게임" />
-        <item itemvalue="Python.1208.Flatten" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +292,7 @@
       <workItem from="1665420346337" duration="2343000" />
       <workItem from="1665587734279" duration="3925000" />
       <workItem from="1665630775465" duration="2937000" />
-      <workItem from="1665674215150" duration="662000" />
+      <workItem from="1665674215150" duration="1418000" />
     </task>
     <servers />
   </component>
