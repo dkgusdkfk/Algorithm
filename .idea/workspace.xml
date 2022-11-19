@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="swea 2805.농작물수확하기.py 코드작성">
-      <change afterPath="$PROJECT_DIR$/sw/1215.회문1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sw/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sw/input.txt" afterDir="false" />
+    <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="swea 1215.회문1.py 코드작성">
+      <change afterPath="$PROJECT_DIR$/sw/1209.sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +70,29 @@
       <recent name="C:\Users\ADMiN\Desktop\아현\알고리즘\Algorithm\sw" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1215.회문1">
+  <component name="RunManager" selected="Python.1209.sum">
+    <configuration name="1209.sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/1209.sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1215.회문1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,28 +159,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2007.패턴마디의길이" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/2007.패턴마디의길이.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="2805.농작물수확하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1209.sum" />
         <item itemvalue="Python.1215.회문1" />
         <item itemvalue="Python.2805.농작물수확하기" />
         <item itemvalue="Python.1989.초심자의회문검사" />
         <item itemvalue="Python.1979.어디에단어가들어갈수있을까" />
-        <item itemvalue="Python.2007.패턴마디의길이" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +301,7 @@
       <workItem from="1668313243929" duration="88000" />
       <workItem from="1668784871135" duration="2247000" />
       <workItem from="1668872498220" duration="7635000" />
-      <workItem from="1668899744900" duration="929000" />
+      <workItem from="1668899744900" duration="1506000" />
     </task>
     <task id="LOCAL-00001" summary="백준 Q14888 코드작성">
       <created>1665849745986</created>
@@ -389,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668899761945</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="swea 1215.회문1.py 코드작성">
+      <created>1668900693136</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668900693136</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -417,7 +422,8 @@
     <MESSAGE value="swea 1979.어디에단어가들어갈수있을까.py 코드작성" />
     <MESSAGE value="swea 1989.초심자의회문검사.py 코드작성" />
     <MESSAGE value="swea 2805.농작물수확하기.py 코드작성" />
-    <option name="LAST_COMMIT_MESSAGE" value="swea 2805.농작물수확하기.py 코드작성" />
+    <MESSAGE value="swea 1215.회문1.py 코드작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="swea 1215.회문1.py 코드작성" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -454,6 +460,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$Q20055.coverage" NAME="Q20055 Coverage Results" MODIFIED="1651247008574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/Algorithm$Q44.coverage" NAME="Q44행성터널 Coverage Results" MODIFIED="1658403714273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter18 그래프이론문제" />
     <SUITE FILE_PATH="coverage/Algorithm$Q_12100.coverage" NAME="Q.12100 Coverage Results" MODIFIED="1665978832597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
+    <SUITE FILE_PATH="coverage/Algorithm$1209_sum.coverage" NAME="1209.sum Coverage Results" MODIFIED="1668901255014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sw" />
     <SUITE FILE_PATH="coverage/Algorithm$Q20056.coverage" NAME="Q20056 Coverage Results" MODIFIED="1665798110911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/Algorithm$Q32.coverage" NAME="Q32정수삼각형 Coverage Results" MODIFIED="1657212224916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter16 다이나믹 프로그래밍 문제" />
     <SUITE FILE_PATH="coverage/Algorithm$2072_.coverage" NAME="2072.홀수만더하기 Coverage Results" MODIFIED="1665158476133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sw" />
