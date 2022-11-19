@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="swea 1974.스도쿠검증 코드작성">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="swea 2007.패턴마디의길이 코드작성">
       <change beforePath="$PROJECT_DIR$/sw/2007.패턴마디의길이.py" beforeDir="false" afterPath="$PROJECT_DIR$/sw/2007.패턴마디의길이.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -301,7 +300,7 @@
       <workItem from="1668303799874" duration="375000" />
       <workItem from="1668313243929" duration="88000" />
       <workItem from="1668784871135" duration="2247000" />
-      <workItem from="1668872498220" duration="3945000" />
+      <workItem from="1668872498220" duration="3981000" />
     </task>
     <task id="LOCAL-00001" summary="백준 Q14888 코드작성">
       <created>1665849745986</created>
@@ -352,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668876684488</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="swea 2007.패턴마디의길이 코드작성">
+      <created>1668876720157</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668876720157</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,7 +382,8 @@
     <MESSAGE value="swea 2056.연월일달력 코드작성" />
     <MESSAGE value="swea 2058.자릿수더하기 코드작성" />
     <MESSAGE value="swea 1974.스도쿠검증 코드작성" />
-    <option name="LAST_COMMIT_MESSAGE" value="swea 1974.스도쿠검증 코드작성" />
+    <MESSAGE value="swea 2007.패턴마디의길이 코드작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="swea 2007.패턴마디의길이 코드작성" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

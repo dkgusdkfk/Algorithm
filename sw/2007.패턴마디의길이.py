@@ -15,3 +15,4 @@ for t in range(1, T+1):
                 break
 
     print("#%d %d" % (t, result))
+
