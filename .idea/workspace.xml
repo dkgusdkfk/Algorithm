@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="swea 2071.평균값구하기 코드작성">
-      <change afterPath="$PROJECT_DIR$/sw/2056.연월일달력.py" afterDir="false" />
+    <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="swea 2056.연월일달력 코드작성">
+      <change afterPath="$PROJECT_DIR$/sw/2058.자릿수더하기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sw/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sw/input.txt" afterDir="false" />
     </list>
@@ -72,7 +72,7 @@
       <recent name="C:\Users\ADMiN\Desktop\아현\알고리즘\Algorithm\sw" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2056.연월일달력">
+  <component name="RunManager" selected="Python.2058.자릿수더하기">
     <configuration name="2056.연월일달력" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,6 +87,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/2056.연월일달력.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2058.자릿수더하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sw" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sw/2058.자릿수더하기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,28 +161,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q.12100 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/Q.12100.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Q.12100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2058.자릿수더하기" />
         <item itemvalue="Python.2056.연월일달력" />
         <item itemvalue="Python.2071.평균값구하기" />
         <item itemvalue="Python.2063.중간값찾기" />
         <item itemvalue="Python.Q.12100" />
-        <item itemvalue="Python.Q.12100 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +301,7 @@
       <workItem from="1665977093212" duration="2234000" />
       <workItem from="1668303799874" duration="375000" />
       <workItem from="1668313243929" duration="88000" />
-      <workItem from="1668784871135" duration="1897000" />
+      <workItem from="1668784871135" duration="2247000" />
     </task>
     <task id="LOCAL-00001" summary="백준 Q14888 코드작성">
       <created>1665849745986</created>
@@ -324,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668785830179</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="swea 2056.연월일달력 코드작성">
+      <created>1668786841047</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668786841047</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,7 +352,8 @@
     <MESSAGE value="백준 Q14888 코드작성" />
     <MESSAGE value="백준 Q12100 코드작성" />
     <MESSAGE value="swea 2071.평균값구하기 코드작성" />
-    <option name="LAST_COMMIT_MESSAGE" value="swea 2071.평균값구하기 코드작성" />
+    <MESSAGE value="swea 2056.연월일달력 코드작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="swea 2056.연월일달력 코드작성" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -434,6 +442,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$1954_.coverage" NAME="1954.달팽이숫자 Coverage Results" MODIFIED="1665419581372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sw" />
     <SUITE FILE_PATH="coverage/Algorithm$1206_View.coverage" NAME="1206.View Coverage Results" MODIFIED="1665239646958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sw" />
     <SUITE FILE_PATH="coverage/Algorithm$Q39.coverage" NAME="Q39화성탐사 Coverage Results" MODIFIED="1657369282017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/이코테/Chapter17 최단경로문제" />
+    <SUITE FILE_PATH="coverage/Algorithm$2058_.coverage" NAME="2058.자릿수더하기 Coverage Results" MODIFIED="1668786948386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sw" />
     <SUITE FILE_PATH="coverage/Algorithm$1208_Flatten.coverage" NAME="1208.Flatten Coverage Results" MODIFIED="1665588207515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sw" />
     <SUITE FILE_PATH="coverage/Algorithm$Q_12100__1_.coverage" NAME="Q.12100 (1) Coverage Results" MODIFIED="1665977815204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/백준" />
     <SUITE FILE_PATH="coverage/Algorithm$k.coverage" NAME="k진수에서소수개수구하기 Coverage Results" MODIFIED="1663865820581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/프로그래머스" />
