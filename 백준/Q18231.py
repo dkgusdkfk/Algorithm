@@ -1,3 +1,6 @@
+import sys
+input = sys.stdin.readline
+
 n, m = map(int, input().split())
 
 road = {}
@@ -12,20 +15,23 @@ for _ in range(m):
 k = int(input())
 kList = list(map(int, input().split()))
 
-yes = []
-no = []
-for c in kList:
+check = [False] * (n+1)
+answer = [True if i in kList else False for i in range(n+1)]
+result = []
+
+for i in kList:
     flag = 0
-    for r in road[c]:
-        if r not in kList:
-            no.append(c)
+    for j in road[i]:
+        if j not in kList:
             flag = 1
             break
     if flag == 0:
-        yes.append(c)
-print(yes, no)
-
-if len(yes) + len(no) == n:
-    print(yes)
-else:
-    print(-1)
+        result.append(i)
+        check[i] = True
+        for j in road[i]:
+            check[j] = True
+    if check == answer:
+        print(len(result))
+        print(*result)
+        exit(0)
+print(-1)
