@@ -8,9 +8,9 @@ public class Main {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
-
+		
 		int n = Integer.parseInt(bf.readLine());
-
+		
 		Stack<Integer> stack = new Stack<>();
 		int[] arr = new int[n];
 		StringTokenizer st = new StringTokenizer(bf.readLine());
