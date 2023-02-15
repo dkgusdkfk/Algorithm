@@ -22,8 +22,6 @@ def solution(k):
     while queue:
         idx = queue.popleft()
         for i in range(n):
-            if i == k or i == idx:
-                continue
             if graph[idx][i] == 1 and graph[k][i] == 0:
                 graph[k][i] = 1
                 queue.append(i)
