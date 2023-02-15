@@ -18,7 +18,7 @@ course = list(map(int, input().split()))
 def solution(k):
     queue = deque([])
     for i in range(n):
-        if graph[k][i] == 1:
+        if graph[k][i] == 1 and i != k:
             queue.append(i)
     while queue:
         idx = queue.popleft()
@@ -34,8 +34,8 @@ for i in range(n):
     solution(i)
 
 result = "YES"
-for i in range(m-1):
-    if graph[course[i]-1][course[i+1]-1] == 0:
+for i in range(m - 1):
+    if graph[course[i] - 1][course[i + 1] - 1] == 0:
         result = "NO"
         break
 print(result)
