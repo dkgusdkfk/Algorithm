@@ -8,8 +8,8 @@ dy = [0, 1, 0, -1]
 queue = deque()
 
 
-def bfs(k):
-    global result
+def bfs():
+    cnt = 1
     while queue:
         x, y = queue.popleft()
         for i in range(4):
@@ -18,22 +18,20 @@ def bfs(k):
             if not (0 <= mx < n and 0 <= my < n):
                 continue
             if graph[mx][my] == 1:
-                graph[mx][my] = k
-                result[k - 2] += 1
+                graph[mx][my] = 0
                 queue.append((mx, my))
+                cnt += 1
+    return cnt
 
 
 result = []
-value = 1
 for r in range(n):
     for c in range(n):
         if graph[r][c] == 1:
-            value += 1
-            result.append(1)
-            graph[r][c] = value
+            graph[r][c] = 0
             queue.append((r, c))
-            bfs(value)
+            result.append(bfs())
 
-print(value - 1)
+print(len(result))
 for r in sorted(result):
     print(r)
