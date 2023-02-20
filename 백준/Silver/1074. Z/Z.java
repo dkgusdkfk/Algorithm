@@ -9,7 +9,7 @@ public class Main {
 		int N = sc.nextInt();
 		r = sc.nextInt();
 		c = sc.nextInt();
-		solution(0, 0, 2 << N - 1);
+		solution(0, 0, 1<<N);
 
 		System.out.println(cnt);
 
