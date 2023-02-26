@@ -18,6 +18,8 @@ def solution(begin, target, words):
             for i, w in enumerate(word):
                 if wd[i] != w:
                     flag += 1
-            if flag == 1:
+                if flag == 2:
+                	break
+            if flag != 2:
                 queue.append([wd, cnt + 1])
     return 0
