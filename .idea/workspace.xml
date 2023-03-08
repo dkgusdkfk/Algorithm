@@ -19,20 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment="백준 Q23253.py">
-      <change afterPath="$PROJECT_DIR$/백준/Q16235.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/Q16236.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/Q17086.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/Q17142.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/Q17281.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/Q1976.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/Q2293.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/Q2294.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/Q23288.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/Q2606.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/Q2667.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/Q9659.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스/자물쇠와열쇠.py" afterDir="false" />
+    <list default="true" id="68077532-6b64-4a88-92b1-6735c61c0300" name="Default Changelist" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -346,6 +333,10 @@
       <workItem from="1677866542981" duration="950000" />
       <workItem from="1678000330510" duration="1805000" />
       <workItem from="1678008307637" duration="17637000" />
+      <workItem from="1678107039431" duration="138000" />
+      <workItem from="1678197233165" duration="29000" />
+      <workItem from="1678281156315" duration="16000" />
+      <workItem from="1678281186498" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="백준 Q14888 코드작성">
       <created>1665849745986</created>
@@ -550,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676211702682</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary=".">
+      <created>1678107074932</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1678107074932</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -581,7 +579,6 @@
     <MESSAGE value="swea 1983.조교의성적매기기.py 코드작성" />
     <MESSAGE value="swea sw미로1.py 코드작성" />
     <MESSAGE value="swea sw미로2.py 코드작성" />
-    <MESSAGE value="." />
     <MESSAGE value="백준 Q1439.py" />
     <MESSAGE value="백준 Q1715.py" />
     <MESSAGE value="백준 Q14499.py" />
@@ -593,7 +590,8 @@
     <MESSAGE value="백준 Q2581.py" />
     <MESSAGE value="백준 Q2493.py" />
     <MESSAGE value="백준 Q23253.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 Q23253.py" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
