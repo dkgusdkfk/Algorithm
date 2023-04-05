@@ -39,12 +39,10 @@ public class Solution {
 						for (k = 1; k < x; k++) {
 							if (map[i][j + k] != map[i][j + k + 1])
 								break;
+							visited[j + k + 1] = true;
 						}
 						if (k != x)
 							break;
-						for (k = 1; k < x; k++) {
-							visited[j + k + 1] = true;
-						}
 					} else if (map[i][j] - map[i][j + 1] == -1) {
 						int k;
 						if (visited[j])
@@ -52,12 +50,10 @@ public class Solution {
 						for (k = 1; k < x; k++) {
 							if (map[i][j - k] != map[i][j - k + 1] || visited[j - k])
 								break;
+							visited[j - k] = true;
 						}
 						if (k != x)
 							break;
-						for (k = 1; k < x; k++) {
-							visited[j - k] = true;
-						}
 					}
 				}
 				if (j == n + x - 1)
@@ -76,12 +72,10 @@ public class Solution {
 						for (k = 1; k < x; k++) {
 							if (map[i + k][j] != map[i + k + 1][j])
 								break;
+							visited[i + k + 1] = true;
 						}
 						if (k != x)
 							break;
-						for (k = 1; k < x; k++) {
-							visited[i + k + 1] = true;
-						}
 					} else if (map[i][j] - map[i + 1][j] == -1) {
 						int k;
 						if (visited[i])
@@ -89,12 +83,10 @@ public class Solution {
 						for (k = 1; k < x; k++) {
 							if (map[i - k][j] != map[i - k + 1][j] || visited[i - k])
 								break;
+							visited[i - k] = true;
 						}
 						if (k != x)
 							break;
-						for (k = 1; k < x; k++) {
-							visited[i - k] = true;
-						}
 					}
 				}
 				if (i == n + x - 1)
