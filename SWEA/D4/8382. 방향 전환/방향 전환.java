@@ -21,10 +21,7 @@ public class Solution {
 			int row = Math.abs(x1 - x2);
 			int col = Math.abs(y1 - y2);
 			
-			int result = row + col;
-			if (Math.abs(row - col) != 1) {
-				result += Math.abs(row-col) / 2 * 2;
-			}
+			int result = row + col + Math.abs(row-col) / 2 * 2;
 			sb.append(result).append("\n");
 		}
 		System.out.println(sb);
