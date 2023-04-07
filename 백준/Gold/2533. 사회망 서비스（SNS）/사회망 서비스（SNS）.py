@@ -12,6 +12,7 @@ for _ in range(N - 1):
 
 
 def dfs(s):
+    global count
     visited[s] = True
     for next in arr[s]:
         if visited[next]:
@@ -19,12 +20,16 @@ def dfs(s):
         dfs(next)
     if not ea[s]:
         for next in arr[s]:
-            ea[next] = True
+            if not ea[next]:
+                ea[next] = True
+                count += 1
 
 
+count = 0
 ea = [False] * (N + 1)
 visited = [False] * (N + 1)
 visited[1] = True
 dfs(1)
 
-print(ea.count(True))
+# print(ea.count(True))
+print(count)
