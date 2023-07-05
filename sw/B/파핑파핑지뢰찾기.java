@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ÆÄÇÎÆÄÇÎÁö·ÚÃ£±â {
+public class ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ã£ï¿½ï¿½ {
 	
 	static char[][] map;
 	
@@ -22,6 +22,7 @@ public class ÆÄÇÎÆÄÇÎÁö·ÚÃ£±â {
 				}
 			}
 		}
+		
 		System.out.println(sb);
 	}
 }
