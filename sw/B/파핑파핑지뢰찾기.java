@@ -54,6 +54,7 @@ public class 파핑파핑지뢰찾기 {
 
             sb.append(click_count).append("\n");
         }
+        
         System.out.println(sb);
     }
 
