@@ -1,91 +1,72 @@
-import java.util.ArrayDeque;
-import java.util.Queue;
-import java.util.Scanner;
+import java.util.*;
+import java.io.*;
 
-public class 파핑파핑지뢰찾기 {
+class 파핑파핑지뢰찾기 {
+    static int[][] map;
+    static int ans, N;
+    static final int[] dr = {-1, 1, 0, 0, -1, -1, 1, 1}, dc = {0, 0, -1, 1, 1, -1, -1, 1};
 
-    static char[][] map;
-    static int[] dx = {-1, 1, 0, 0, -1, -1, 1, 1};
-    static int[] dy = {0, 0, -1, 1, 1, -1, -1, 1};
-
-    static class Info {
-        int x, y;
-
-        Info(int x, int y) {
-            this.x = x;
-            this.y = y;
+    public static void main(String[] args) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int T = Integer.parseInt(br.readLine());
+        for (int tc = 1; tc <= T; tc++) {
+            N = Integer.parseInt(br.readLine());
+            map = new int[N][N];
+            ans = 0;
+            for (int i = 0; i < N; i++) {
+                String str = br.readLine();
+                for (int j = 0; j < N; j++) {
+                    if (str.charAt(j) == '.') map[i][j] = -1;
+                    else map[i][j] = -2;
+                }
+            }
+            solve();
+            System.out.println("#" + tc + " " + ans);
         }
     }
 
-    public static void main(String[] args) throws Exception {
-        Scanner sc = new Scanner(System.in);
-        StringBuilder sb = new StringBuilder();
-
-        int T = sc.nextInt();
-        for (int tc = 1; tc <= T; tc++) {
-            sb.append("#" + tc + " ");
-
-            int n = sc.nextInt();
-
-            map = new char[n + 2][n + 2];
-            for (int i = 1; i <= n; i++) {
-                String input = sc.next();
-                for (int j = 1; j <= n; j++) {
-                    map[i][j] = input.charAt(j - 1);
+    private static void solve() {
+        for (int i = 0; i < N; i++) {
+            for (int j = 0; j < N; j++) {
+                if (map[i][j] != -1) continue;
+                if (isZero(i, j)) {
+                    click(i, j);
+                    ans++;
                 }
             }
-
-            int click_count = 0;
-            for (int i = 1; i <= n; i++) {
-                for (int j = 1; j <= n; j++) {
-                    if (map[i][j] == '.' && isZero(i, j)) {
-                        click(i, j);
-                        click_count++;
-                    }
-                }
-            }
-
-            for (int i = 1; i <= n; i++) {
-                for (int j = 1; j <= n; j++) {
-                    if (map[i][j] == '.')
-                        click_count++;
-                }
-            }
-
-            sb.append(click_count).append("\n");
         }
-        
-        System.out.println(sb);
+        for (int i = 0; i < N; i++) {
+            for (int j = 0; j < N; j++) {
+                if (map[i][j] == -1) ans++;
+            }
+        }
     }
 
     private static void click(int r, int c) {
-        Queue<Info> queue = new ArrayDeque<>();
-        queue.add(new Info(r, c));
-
+        Queue<int[]> queue = new LinkedList<>();
+        queue.add(new int[]{r, c});
+        map[r][c] = 0;
         while (!queue.isEmpty()) {
-            int x = queue.peek().x;
-            int y = queue.poll().y;
-            map[x][y] = 'x';
+            int[] curr = queue.poll();
+            map[curr[0]][curr[1]] = 0;
             for (int i = 0; i < 8; i++) {
-                int nx = x + dx[i];
-                int ny = y + dy[i];
-                if (map[nx][ny] == ' ') continue;
-                if (map[nx][ny] == '.' && isZero(nx, ny)) {
-                    queue.add(new Info(nx, ny));
-                } else {
-                    map[nx][ny] = 'x';
-                }
+                int nr = curr[0] + dr[i];
+                int nc = curr[1] + dc[i];
+                if (nr < 0 || nc < 0 || nr >= N || nc >= N || map[nr][nc] != -1) continue;
+                if (isZero(nr, nc)) queue.add(new int[]{nr, nc});
+                map[nr][nc] = 0;
             }
         }
     }
 
-    private static boolean isZero(int x, int y) {
+    private static boolean isZero(int r, int c) {
         for (int i = 0; i < 8; i++) {
-            int nx = x + dx[i];
-            int ny = y + dy[i];
-            if (map[nx][ny] == '*')
-                return false;
+            int nr = r + dr[i];
+            int nc = c + dc[i];
+            if (nr < 0 || nc < 0 || nr >= N || nc >= N) continue;
+            if (map[nr][nc] == -2) return false;
         }
         return true;
     }
+
 }
