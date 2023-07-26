@@ -9,24 +9,24 @@ t = int(input())
 
 for _ in range(t):
     n = int(input())
-    visited = [[False] * n for _ in range(n)]
+    visited = [[0] * n for _ in range(n)]
 
     sx, sy = map(int, input().split())  # 나이트 시작 칸
     ex, ey = map(int, input().split())  # 나이트 도착 칸
 
     q = deque()
-    q.append((sx, sy, 0))
-    visited[sx][sy] = True
+    q.append((sx, sy))
+    visited[sx][sy] = 1
 
     while q:
-        x, y, c = q.popleft()
+        x, y = q.popleft()
         if (x, y) == (ex, ey):
-            print(c)
+            print(visited[x][y]-1)
             break
         for i in range(8):
             nx = x + dx[i]
             ny = y + dy[i]
             if 0 <= nx < n and 0 <= ny < n:
-                if not visited[nx][ny]:
-                    visited[nx][ny] = True
-                    q.append((nx, ny, c+1))
+                if visited[nx][ny] == 0:
+                    visited[nx][ny] = visited[x][y] + 1
+                    q.append((nx, ny))
