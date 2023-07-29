@@ -23,7 +23,5 @@ public class 영준이의진짜BFS {
 		}
 	}
 	
-	private static void check(int c) {
-		
-	}
+	private static void check(int c) {}
 }
