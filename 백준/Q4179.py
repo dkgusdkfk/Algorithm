@@ -47,7 +47,7 @@ while jihoon:
                     visited[nx][ny] = True
             else:
                 print(t)
-                exit(1)
+                exit(0)
         jSize -= 1
 
 print("IMPOSSIBLE")
